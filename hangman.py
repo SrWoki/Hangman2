@@ -1,6 +1,8 @@
 # Import modules to use
 from words import words
 import random
+from colorama import Fore,Style
+
 
 # 1. Welcome
 print("Welcome to the game hangman in Python")
@@ -25,4 +27,4 @@ print(my_word + '\n',len(my_word))
 # A N O N Y M O U S
 # _ _ _ _ _ _ _ _ _
 
-print("-"*len(my_word))
+print(Fore.RED+"-"*len(my_word))
