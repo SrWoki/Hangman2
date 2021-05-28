@@ -1,0 +1,7 @@
+PASOS
+
+1. Bienvenida
+2. Tener listado de palabras
+3. Elegir palabra (de un banco de datos)
+4. Escoger una palabra buena
+5. 
